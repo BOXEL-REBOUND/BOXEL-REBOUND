@@ -7,6 +7,10 @@
 - ⚠ If you find an error in my code, just email me.
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<footer>
+  Everything made by BOXEL-REBOUND aka Christopher Wintermute
+  <div class="edit"><a href="https://github.com/BOXEL-REBOUND/BOXEL-REBOUND/edit.main.README.md">You can edit this file here</a></div>
+</footer><br />
 
 # Special Stuff (Ignore):
 ***BOXEL-REBOUND/BOXEL-REBOUND*** is a *✨* **special** *✨* repository because its `README.md` (this file) appears on your GitHub profile.
