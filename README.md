@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BOXEL-REBOUND
+- 👋 Hi, I’m <a class="profile" href="https://github.com/BOXEL-REBOUND/">@BOXEL-REBOUND</a>
 - 👀 I’m interested in coding C, HTML, and JavaScript
 - 🌱 I’m currently learning how to code Batch
 - 💞️ I’m looking to collaborate on building a non-euclidean ([definition here](https://www.google.com/search?q=def+of+euclidean&oq=def+of+euclidean&aqs=chrome..69i57j0i22i30l7.3793j0j9&sourceid=chrome&ie=UTF-8) or [here](https://www.google.com/search?q=non-euclidean+meaning&oq=non-euclidean+meaning&aqs=chrome..69i57j0i22i30l2j0i390l3.8532j0j9&sourceid=chrome&ie=UTF-8)) worlds engine (Someone did it on YouTube and I am trying to replicate it. All credit goes to CodeParade on YT. Video is [here](https://m.youtube.com/watch?feature=youtu.be&v=kEB11PQ9Eo8)).
