@@ -8,8 +8,8 @@
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <footer>
-  Everything made by BOXEL-REBOUND aka Christopher Wintermute
-  <div class="edit"><a href="https://github.com/BOXEL-REBOUND/BOXEL-REBOUND/edit.main.README.md">You can edit this file here</a></div>
+  Everything else made by BOXEL-REBOUND aka Christopher Wintermute
+  <div class="edit"><a href="https://github.com/BOXEL-REBOUND/BOXEL-REBOUND/edit/main/README.md">You can edit this file here</a></div>
 </footer><br />
 
 # Special Stuff (Ignore):
