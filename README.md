@@ -11,7 +11,3 @@
   Everything else made by BOXEL-REBOUND aka Christopher Wintermute
   <div class="edit"><a href="https://github.com/BOXEL-REBOUND/BOXEL-REBOUND/edit/main/README.md">You can edit this file here</a></div>
 </footer><br />
-
-# Special Stuff Needed to make this appear (Ignore):
-***BOXEL-REBOUND/BOXEL-REBOUND*** is a *✨* **special** *✨* repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
